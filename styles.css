@@ -1,0 +1,156 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(210, 255, 255);
+}
+
+.first{
+    padding-top: 10px;
+  padding-right: 80px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    text-align: left;
+}
+
+.second{
+    color: aliceblue;
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 200px;
+  padding-right: 80px;
+  padding-bottom: 0px;
+  padding-left: 80px;
+    text-align: center;
+}
+
+.both1{
+     
+  background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(images/360_F_214879686_R3HFJlk6WLr1kcdvy6Q9rtNASKN0BZBS.jpg);
+}
+
+.third{
+    background-position:right;
+    background-repeat: no-repeat;
+    background-size: 20% 100%;
+    background-image: url(images/docubyte-i-am-a-computer-designboom-010.gif);
+    padding-top: 40px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+    background-color:#E7E5E1 ;
+    font-size: 30pt;
+    text-align: left;
+}
+
+.both2{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 10px;
+ background-color: aliceblue;
+}
+
+h2, h2{
+    font-size: 30pt;
+}
+
+ul, ol {
+    
+    padding: 0%;
+    list-style-position: inside; 
+}
+
+
+.forth{
+     padding-bottom: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.alone{
+     background-position:right;
+    background-repeat: no-repeat;
+    background-size: 20% 100%;
+    background-image: url(images/docubyte-i-am-a-computer-designboom-010.gif);
+    padding-top: 40px;
+  padding-top: 40px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+    background-color:#E7E5E1 ;
+    font-size: 30pt;
+    text-align: left;
+
+}
+
+.fifth{
+     background-position:right;
+    background-repeat: no-repeat;
+    background-size: 20% 100%;
+    background-image: url(images/docubyte-i-am-a-computer-designboom-010.gif);
+    padding-top: 40px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+    background-color:#E7E5E1 ;
+    font-size: 30pt;
+    text-align: left;
+}
+
+p{
+    text-align: center;
+}
+
+thead{
+    background-color: rgb(162, 212, 253);
+}
+
+tr{
+    background-color: rgb(161, 152, 241);
+}
+
+td{
+    background-color: rgb(215, 212, 255);
+}
+
+table{
+    background-color: rgb(209, 235, 226);
+}
+
+table{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.both3{
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size: 20% 20%;
+    background-image: url(images/wired-flat-732-printer.gif);
+    padding-bottom: 100px;
+    background-color: aliceblue;
+}
+
+h2{
+    background-color:#E7E5E1 ;
+}
+
+
+.both4{
+    
+    margin-right:10% ;
+    margin-left: 10%;
+    text-align: center;
+     padding-bottom: 20px;
+    background-color: aliceblue;
+}
+
+label{
+   text-align: left;
+    font-size: 30px;
+}
